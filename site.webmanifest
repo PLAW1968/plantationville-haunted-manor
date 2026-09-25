@@ -1,0 +1,13 @@
+{
+  "name": "PlantationVille Haunted Manor",
+  "short_name": "PlantationVille",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/plantationville-logo.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
